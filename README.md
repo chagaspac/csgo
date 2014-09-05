@@ -16,3 +16,4 @@ Launch Options Steam: -novid -noborder -high -threads 4 -freq 144 -refresh 144 -
 
 Vídeos Youtube: https://www.youtube.com/watch?v=rHbuyjSda_4
 
+2393 console commands for Counter-Strike: http://www.gamerconfig.eu/commands/counter-strike-global-offensive/
