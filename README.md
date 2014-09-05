@@ -14,6 +14,6 @@ Mac OS X:
 
 Launch Options Steam: -novid -noborder -high -threads 4 -freq 144 -refresh 144 -tickrate 128 -nojoy -nod3d9ex -noaafonts +exec autoexec.cfg +mat_vignette_enable 0 -processheap
 
-Vídeos Youtube: https://www.youtube.com/watch?v=rHbuyjSda_4
+Vídeo Tutorial: https://www.youtube.com/watch?v=rHbuyjSda_4
 
 2393 console commands for Counter-Strike: http://www.gamerconfig.eu/commands/counter-strike-global-offensive/
