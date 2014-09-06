@@ -18,4 +18,6 @@ Download do autoexec.cfg: https://github.com/pedrohiraoka/csgo/blob/master/autoe
 
 Vídeo Tutorial: https://www.youtube.com/watch?v=rHbuyjSda_4
 
+Vídeo Tutorial 2: https://www.youtube.com/watch?v=MGjv9hYkPjU
+
 2393 console commands for Counter-Strike: http://www.gamerconfig.eu/commands/counter-strike-global-offensive/
