@@ -1,6 +1,7 @@
 Counter-Strike: Global Offensive
 
 ZeroNinja's autoexec.cfg (CS:GO config) para modo competitivo
+
 Perfil Steam: http://steamcommunity.com/id/zeroninjaoficial
 
 autoexec.cfg
