@@ -25,3 +25,5 @@ Vídeo Tutorial 2: https://www.youtube.com/watch?v=MGjv9hYkPjU
 2393 console commands for Counter-Strike: http://www.gamerconfig.eu/commands/counter-strike-global-offensive/
 
 CS:GO Buy Binds Generator: http://jessewebb.github.io/csgo-buynds/buy-binds-generator.html
+
+[HOW-TO] Use the Hidden Radio Commands (works in multiplayer): http://steamcommunity.com/sharedfiles/filedetails/?id=187002729
