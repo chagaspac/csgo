@@ -1,6 +1,7 @@
 "RadioPanel.txt"
 {
 
+// Open the "radiopanel.txt" file, you will find it under: E:\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\resource\ui -> radiopanel.txt 
 // http://steamcommunity.com/sharedfiles/filedetails/?id=187002729
 
 //"SFUI_StandardRadio"
