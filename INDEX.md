@@ -44,9 +44,7 @@ Membro desde 12 de abril de 2007.">
 									</div>
 															</div>
 																<div class="profile_header_actions">
-													<a class="btn_profile_action btn_medium" href="http://steamcommunity.com/id/zeroninjaoficial/edit">
-								<span>Editar perfil</span>
-							</a>
+													
 											</div>
 				</div>
 
