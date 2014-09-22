@@ -29,3 +29,5 @@ Configs for Counter-Strike: Global Offensive: http://www.gamerconfig.eu/configs/
 CS:GO Buy Binds Generator: http://jessewebb.github.io/csgo-buynds/buy-binds-generator.html
 
 [HOW-TO] Use the Hidden Radio Commands (works in multiplayer): http://steamcommunity.com/sharedfiles/filedetails/?id=187002729
+
+Counter-Strike : Global Offensive Server Launcher: https://github.com/crazy-max/csgo-server-launcher
