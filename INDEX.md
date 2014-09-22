@@ -773,19 +773,3 @@ Insígnia de Left 4 Dead 2 nível 2">
 	</div>
 
 </div>
-
-	<div id="footer_spacer"></div>
-	<div id="footer">
-		<div class="footer_content">
-			<span id="footerLogo"><img src="http://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png" width="96" height="26" border="0" alt="Logotipo da Valve"></span>
-			<span id="footerText">
-				© Valve Corporation. Todos os direitos reservados. Todas as marcas registradas são propriedade dos seus respectivos donos nos EUA e outros países. Alguns dados geoespaciais neste site são fornecidos por <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org">geonames.org</a>.				<br>
-				<span class="valve_links">
-					<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a> | <a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a> | <a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
-				</span>
-							
-							</span>
-		</div>
-	</div>
-	
-<div class="miniprofile_hover" style="display: none;"><div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div><div class="miniprofile_hover_inner shadow_content"></div><div class="hover_arrow left miniprofile_arrow"><div class="miniprofile_arrow_inner"></div></div><div class="hover_arrow right miniprofile_arrow"><div class="miniprofile_arrow_inner"></div></div></div></body></html>
