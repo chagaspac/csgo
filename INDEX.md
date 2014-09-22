@@ -107,10 +107,6 @@ Membro desde 12 de abril de 2007.">
 									<div class="profile_customization_area">
 						
 <div class="profile_customization">
-			<a class="profile_customization_editlink" href="http://steamcommunity.com/id/zeroninjaoficial/edit#showcases">
-			<span class="profile_customization_edit_icon"></span>
-			<span class="profile_customization_editlink_text">Editar ou alterar destaque</span>
-		</a>
 		<div class="profile_customization_header">
 		Destaques do inventário	</div>
 	<div class="profile_customization_block">
