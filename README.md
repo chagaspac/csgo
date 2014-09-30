@@ -32,6 +32,8 @@ CS:GO Buy Binds Generator: http://jessewebb.github.io/csgo-buynds/buy-binds-gene
 
 Counter-Strike : Global Offensive Server Launcher: https://github.com/crazy-max/csgo-server-launcher
 
+CS:GO Autoexec Creator: http://csgoconfig.net/ ou http://autoexec.global-offensive.com/
+
 Razer Cortex: Game Booster: http://www.razerzone.com/br-pt/cortex/game-booster
 
 Game Tracker:
