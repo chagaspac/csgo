@@ -45,6 +45,8 @@ Crosshair Generator: http://tools.dathost.net/ ou http://operationl2p.com/crossh
 
 Grenade Maps: http://operationl2p.com/maps
 
+Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/sharedfiles/filedetails/?id=326618495
+
 <a href="http://www.gametracker.com/server_info/189.1.171.55:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.55:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
