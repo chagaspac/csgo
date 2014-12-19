@@ -1,3 +1,5 @@
+Arquivo atualizado / Updated file: https://raw.githubusercontent.com/pedrohiraoka/csgo/master/autoexec.cfg
+
 Counter-Strike: Global Offensive
 
 ZeroNinja's autoexec.cfg (CS:GO config) para modo competitivo
