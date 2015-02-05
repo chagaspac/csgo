@@ -49,6 +49,8 @@ Grenade Maps: http://operationl2p.com/maps
 
 Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/sharedfiles/filedetails/?id=326618495
 
+Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
+
 <a href="http://www.gametracker.com/server_info/181.41.210.33:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/181.41.210.33:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
