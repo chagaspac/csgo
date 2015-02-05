@@ -51,6 +51,6 @@ Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/share
 
 Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
 
-<a href="http://www.gametracker.com/server_info/181.41.210.33:27015/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/181.41.210.33:27015/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+<iframe src="http://cache.www.gametracker.com/components/html0/?host=189.1.171.47:27018&bgColor=333333&fontColor=CCCCCC&titleBgColor=222222&titleColor=FF9900&borderColor=555555&linkColor=FFCC00&borderLinkColor=222222&showMap=1&currentPlayersHeight=100&showCurrPlayers=1&topPlayersHeight=100&showTopPlayers=1&showBlogs=0&width=600" frameborder="0" scrolling="no" width="600" height="536"></iframe>
 
 <a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
