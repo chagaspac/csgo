@@ -51,6 +51,8 @@ Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/share
 
 Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
 
+CS:S Mouse Optimization Guide: http://www.overclock.net/t/173255/cs-s-mouse-optimization-guide
+
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
