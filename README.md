@@ -53,6 +53,8 @@ Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/
 
 CS:S Mouse Optimization Guide: http://www.overclock.net/t/173255/cs-s-mouse-optimization-guide
 
+Best Mice for First Person Shooters 2013: http://forums.absurdminds.net/viewtopic.php?f=19&t=1790
+
 <a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
 <a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
