@@ -47,6 +47,8 @@ Crosshair Generator: http://tools.dathost.net/ ou http://operationl2p.com/crossh
 
 Grenade Maps: http://operationl2p.com/maps
 
+CFG FALLEN: http://www.falleninsider.net/o-fallen/
+
 Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/sharedfiles/filedetails/?id=326618495
 
 Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
