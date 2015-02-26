@@ -1,0 +1,25 @@
+//Radio Message Binds
+//Command Radio Message
+//bind "#" "go"             //GO!
+//bind "#" "fallback"       //Fall Back
+//bind "#" "sticktog"       //Stick Together Team
+//bind "#" "holdpos"        //Hold This Position
+//bind "#" "followme"       //Follow Me
+//Standard Radio Message
+//bind "#" "roger"          //Affirmative/Roger
+//bind "#" "negative"       //Negative
+//bind "#" "cheer"          //Cheer!
+//bind "#" "compliment"     //Compliment
+//bind "#" "thanks"         //Thanks
+//Report Radio Message
+//bind "#" "enemyspot"      //Enemy Spotted
+//bind "#" "needbackup"     //Need Backup
+//bind "#" "takepoint"      //You Take the Point
+//bind "#" "sectorclear"    //Sector Clear
+//bind "#" "inposition"     //Im in Position
+//bind "#" "coverme"        //Cover Me
+//Misc
+//bind "#" "enemydown"      //Enemy Down
+//bind "#" "takingfire"     //Taking Fire, Need Assistance
+//bind "#" "regroup"        //Regroup Team
+//bind "#" "getout"         //Get out of there, its gonna blow!
