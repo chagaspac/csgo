@@ -52,6 +52,8 @@ CFG FALLEN: http://www.falleninsider.net/o-fallen/
 CFG fnatic flusha: http://speedy.sh/F4mQ2/FNATICflushasCONFIG.rar
 VIDEO CFG: https://www.ultraimg.com/images/flushavideo.png
 
+olofmeister: https://www.dropbox.com/s/s8enx86ia68ganr/cfg.rar?dl=0
+
 Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/sharedfiles/filedetails/?id=326618495
 
 Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
