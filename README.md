@@ -54,6 +54,8 @@ VIDEO CFG: https://www.ultraimg.com/images/flushavideo.png
 
 olofmeister: https://www.dropbox.com/s/s8enx86ia68ganr/cfg.rar?dl=0
 
+Mistérios do Prata 1 - Nano Documentário sobre CS:GO: https://www.youtube.com/watch?v=tzvffJAyQgM
+
 Configure seu PC para Jogar Competitivo [PT-BR]: http://steamcommunity.com/sharedfiles/filedetails/?id=326618495
 
 Tabela com as confs dos profissionais: https://docs.google.com/a/futturu.com.br/spreadsheets/d/12PSHqb8Vwg8rSCOkGjbbsj8iBsm8p52jOLffDc88iy8/pubhtml
