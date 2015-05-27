@@ -47,6 +47,8 @@ Crosshair Generator: http://tools.dathost.net/ ou http://operationl2p.com/crossh
 
 Grenade Maps: http://operationl2p.com/maps
 
+CS:GO - Aim training by Friberg - How to aim with training_aim_csgo: https://www.youtube.com/watch?v=eb9nYs4K5e4
+
 CFG FALLEN: http://www.falleninsider.net/o-fallen/
 
 CFG fnatic flusha: http://speedy.sh/F4mQ2/FNATICflushasCONFIG.rar
