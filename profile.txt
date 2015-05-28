@@ -1,0 +1,58 @@
+Mess with the best, die like the rest.  
+ Perfil Lotado > Add > http://steamcommunity.com/groups/ZeroNinja 
+ https://github.com/pedrohiraoka/csgo (Settings, Shortcuts and FPS Boost) (My autoexec.cfg and video.txt) 
+
+ Play with me / My dedicated server (console): connect 181.41.212.73:27015 ou mix.ZeroNinja.tk 
+ My TeamSpeak server: ts3.ZeroNinja.tk:9502 
+
+ Equipamentos de trabalho: 
+
+ Máquina 1: Apple iMac 21.5'' Intel® Core™ i5 (12GB RAM) 
+ Sistema Operacional: Mac OS X / Windows 7 / Debian 7 (Multi Boot) 
+ Resolução: 1920 x 1080 (Full HD) 
+ Placa Gráfica: AMD Radeon™ HD 6750M 512 MB 
+
+ Máquina 2: Notebook Dell™? Inspiron 15 Série 5000 Intel® Core™ i7 (3093 MHz) 
+ Sistema Operacional: Windows 8.1 Pro x64 
+ Memória RAM: 16GB, Dual Channel DDR3, 1600MHz (2x8Gb) 
+ HD híbrido de 1TB com 8 GB SSD 
+ Tela LED Full HD IPS de 15,6 polegadas (1920 x 1080) com tecnologia touchscreen 
+ Placa Gráfica: AMD Radeon™ HD R7 M265 com memória dedicada de 2GB DDR3 
+
+ Monitor: BenQ™ XL2420Z LED 24'' (1080p, 144Hz, NVIDIA 3D Ready, Black eQualizer, S-Switch, 1ms GTG. 12M:1 DCR, Height Adjustable Stand, D-sub / DVI-DL / HDMI x 2 / DP1.2 / headphone jack, 13.4 Lbs) 
+ Fone de ouvido: Razer™ Kraken 7.1 Chroma (Drivers 40mm with Neodymium, 20Hz–20kHz, Sensitivity @ 1kHz: 112dB) 
+ Fone de ouvido: Razer™ Electra (P2/P3 RZ.AU.ME.03.RT) 
+ Mouse: Razer™ DeathAdder Chroma (10.000 DPI) 
+ Mouse: Razer™ Krait (6.400 DPI, 4G) 
+ Teclado: Razer™ Cyclosa (1000Hz, 1/ms) 
+ Mousepad: Razer™ Goliathus (Extended Speed Extra Grande) 
+ Mousepad: Razer™ Kabuto (M) 
+
+ Internet: NET VIRTUA 60 Mbit/seg / VIVO BOX 15 Mbit/seg (4G) 
+ Download Speed: 57135 kbps (7141.9 KB/sec transfer rate) 
+ Upload Speed: 2790 kbps (348.8 KB/sec transfer rate) 
+ Latency: 96 ms 
+ http://speedtest.copel.net/ 
+
+ Razer™ Atrox (PC) 
+ Razer™ Mouse Bungee 
+
+ Softwares: 
+ Razer™ Cortex: Game Booster 
+ Open Broadcaster Software 
+ RadeonPro - AMD Radeon™ Unleashed 
+ TeamSpeak™ 3
+ ParkControl
+ Disable CPU Core Parking Utility 
+ Open Hardware Monitor 
+ Razer™ Synapse 2.0 
+ Razer™ Surround Personalized 7.1 Gaming Audio Software 
+ Hearing Guardian da Biosom™ (O Hearing Guardian V1 restaura a perda auditiva além de eliminar o zumbido. Melhore sua audição em até 10dB) 
+
+ Sonho de Consumo: DXRacer F-Series Keyd Stars @ http://dxracerbrasil.com.br/loja/index.php/dxracer-f-series-keyd-stars.html 
+ Sonho de Consumo: PC Gamer @ https://rocketz.com.br/store/kits/Ghost 
+ Sonho de Consumo: Alienware 18 @ http://www.dell.com/pt/p/alienware-18/pd?ref=PD_OC 
+
+ My Crosshair 
+ Copy/paste variables directly into console 
+ cl_crosshairalpha "200";cl_crosshaircolor "1";cl_crosshaircolor_b "50";cl_crosshaircolor_r "50";cl_crosshaircolor_g "250";cl_crosshairdot "0";cl_crosshairgap "0";cl_crosshairsize "5";cl_crosshairstyle "4";cl_crosshairusealpha "1";cl_crosshairthickness "1.5";cl_fixedcrosshairgap "0";cl_crosshair_outlinethickness "0";cl_crosshair_drawoutline "0";
