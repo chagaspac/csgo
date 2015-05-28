@@ -34,6 +34,8 @@ CS:GO Buy Binds Generator: http://jessewebb.github.io/csgo-buynds/buy-binds-gene
 
 [HOW-TO] Use the Hidden Radio Commands (works in multiplayer): http://steamcommunity.com/sharedfiles/filedetails/?id=187002729
 
+The Ultimate CS:GO Tricks&Tweaks Guide 2014: http://steamcommunity.com/sharedfiles/filedetails/?id=225142771
+
 Fonts CS:GO: http://fonts.spddl.de/
 
 Counter-Strike : Global Offensive Server Launcher: https://github.com/crazy-max/csgo-server-launcher
