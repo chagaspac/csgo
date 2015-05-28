@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=jEY1D0LfL78
+
 Arquivo atualizado / Updated file: https://raw.githubusercontent.com/pedrohiraoka/csgo/master/autoexec.cfg
 
 Counter-Strike: Global Offensive
