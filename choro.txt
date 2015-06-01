@@ -1,4 +1,4 @@
-// MUDAR MIRA COM O BOTAO DO SCROLL - MOUSE3
+// FRASE DE CHORO PARA CHOROES
 //bind "mouse3" "snade"
 alias "iniciochoro" "choro1"
 //bind "mouse3" "snade"
