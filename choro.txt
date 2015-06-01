@@ -1,7 +1,7 @@
 // FRASE DE CHORO PARA CHOROES
-//bind "mouse3" "snade"
+bind "u" "iniciochoro"
 alias "iniciochoro" "choro1"
-//bind "mouse3" "snade"
+bind "u" "iniciochoro"
 alias "iniciochoro" "choro1"
 alias "choro1" "say Se chorei ou se sorri / O importante / É que emoções eu vivi. (Rei Roberto Carlos); alias iniciochoro choro2"
 alias "choro2" "say Se a vida lhe der 1000 motivos para chorar, mostre a ela que você tem 1001 motivos para sorrir! <3 Desconhecido;alias iniciochoro choro3"
