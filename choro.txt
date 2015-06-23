@@ -34,7 +34,7 @@ alias "frasechoro6" "say 1967, o mundo comecou, pelo menos pra mim e a minha his
 alias "frasechoro7" "say Se for pra chorar pelo leite derramado, que seja leite condensado! Desconhecido"
 alias "frasechoro8" "say Vou chorar, desculpe, mas eu vou chorar. Nao ligue, se eu nao ligar. Faz parte dessa solidao! Leandro&Leonardo"
 alias "frasechoro9" "say Estou indo embora agora, por favor nao implora, porque homem nao chora (Poeta Pablo)"
-alias "frasechoro10" "say Estou indo embora agora, a mala ja esta la fora, porque homem nao chora. (Poeta Pablo)"
+alias "frasechoro10" "say O Direito não acolhe aos que dormem"
 alias "frasechoro11" "say Covarde nao eh aquele que chora por ganhar, e sim aquele que perde e nao para de chorar. Desconhecido"
 alias "frasechoro12" "say E o medo era motivo de choro, desculpa para um abraco, um consolo. Cazuza"
 alias "frasechoro13" "say Deixe-me ir, preciso andar, vou por ai a procurar rir pra nao chorar. Cartola"
