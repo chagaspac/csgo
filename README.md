@@ -86,15 +86,15 @@ ParkControl: https://bitsum.com/parkcontrol/
 
 <a href="http://imgur.com/GKZTUys"><img src="http://i.imgur.com/GKZTUys.jpg" title="source: imgur.com" /></a>
 
-Other Settings
-
-Windows Sensitivity: 6/11
-Enhance Pointer Precision: No
-Mouse DPI: 450
-Mouse Polling Rate: 500hz
-Windows 7 Aero: No - csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition
-Nvidia Maximum Pre-Rendered Frames: 1
-1280x960 stretched (no black bars, full-screen scaling, god res :P) to 1920x1080, purely preference
-In-Game Audio Ouput: Headphones
-ClearRadar by /u/adoscafeten http://www.csmeta.com/
-VibranceGUI by juvlarN - Ingame Vibrance Level: 100% (Automated digital vibrance). Only download from the official site. There are recompiled versions out there that will attempt to steal your inventory. http://vibrancegui.com/
+Other Settings<br />
+<br />
+Windows Sensitivity: 6/11 <br />
+Enhance Pointer Precision: No<br />
+Mouse DPI: 450<br />
+Mouse Polling Rate: 500hz<br />
+Windows 7 Aero: No - csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition<br />
+Nvidia Maximum Pre-Rendered Frames: 1<br />
+1280x960 stretched (no black bars, full-screen scaling, god res :P) to 1920x1080, purely preference<br />
+In-Game Audio Ouput: Headphones<br />
+ClearRadar by /u/adoscafeten http://www.csmeta.com/<br />
+VibranceGUI by juvlarN - Ingame Vibrance Level: 100% (Automated digital vibrance). Only download from the official site. There are recompiled versions out there that will attempt to steal your inventory. http://vibrancegui.com/<br />
