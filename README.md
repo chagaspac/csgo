@@ -24,6 +24,8 @@ Launch Options Steam: -console -novid -noforcemaccel -noforcemspd -useforcedmpar
 
 Download do autoexec.cfg: https://github.com/pedrohiraoka/csgo/blob/master/autoexec.cfg
 
+CPU core parking manager: http://coderbag.com/Programming-C/CPU-core-parking-manager
+
 Vídeo Tutorial: https://www.youtube.com/watch?v=rHbuyjSda_4
 
 Vídeo Tutorial 2: https://www.youtube.com/watch?v=MGjv9hYkPjU
