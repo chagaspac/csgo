@@ -84,10 +84,7 @@ The CS:GO Like a Pro guide: http://csgolikeapro.com/index.php?title=Guide
 
 ParkControl: https://bitsum.com/parkcontrol/
 
-<a href="http://www.gametracker.com/server_info/189.1.171.47:27018/" target="_blank"><img src="http://cache.www.gametracker.com/server_info/189.1.171.47:27018/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
-
-<a href="http://www.speedtest.net/my-result/3851846856"><img src="http://www.speedtest.net/result/3851846856.png" /></a>
-
+Demo da minha cfg:
 <a href="http://imgur.com/GKZTUys"><img src="http://i.imgur.com/GKZTUys.jpg" title="source: imgur.com" /></a>
 
 Other Settings<br />
