@@ -1,0 +1,86 @@
+Otimização de desempenho e performance do computador e do CS:GO:
+Primeiro de tudo inicie o CS:GO e faça um teste de quantos FPS você está pegando agora e quantos você pegou depois de fazer todos passos desse tutorial.
+____________________________________________________
+• STEAM:
+AMIGOS & NOTIFICAÇÕES:
+1. Quando qualquer amigo iniciar um jogo DESMARCA.
+2. Quando qualquer amigo ficar online DESMARCA.
+3. Quando eu receber uma mensagem DESMARCA.
+4. Piscar a janela ao receber mensagem NUNCA.
+Deverá ficar igual assim:
+http://imgur.com/a/TUGm7
+INTERFACE:
+Desativa DirectWrite porque ele usa muita performance e nem é tão importante assim.
+Deverá ficar igual assim:
+http://imgur.com/a/QBe2P
+____________________________________________________
+• NVIDIA
+1. Quando você instalar o driver da NVIDIA apenas instale o Driver Gráfico e o PhysX, nada mais.
+http://imgur.com/BKodN0O
+2. Painel de Controle da NVIDIA> Manage 3D Settings.
+3. Maximum pre-rendered frames -> Coloca 1
+4. Power management mode -> Coloca maximum performance
+5. Texture filtering -> Qualidade > Alta Performance
+6. Vertical Sync -> Coloca OFF ou Desativado
+____________________________________________________
+• AMD
+1. Clique com o botão direito na àrea de trabalho
+2. Clique em configurações do Radeon
+3. Clique na parte de Jogos
+4. Clique no CS:GO
+5. Deixe exatamente igual ao da imagem a seguir
+http://imgur.com/a/EwDui
+____________________________________________________
+• PC/GABINETE
+1. É importante você limpar a poeira do seu computador
+http://imgur.com/v8cVHvZ
+2. É importante também o computador estar com um bom airflow (mais ar venha para o gabinete para não deixar ele quente)
+http://imgur.com/b4PA2fS
+____________________________________________________
+• WINDOWS
+1. Os drivers do Windows devem estar atualizados sempre
+2. Unpark CPU Cores: http://www.coderbag.com/pr…/disable-cpu-core-parking-utility (essa parte é difícil, recomendo ver algum tutorial no youtube para fazer essa parte de unparking)
+3. Painel de controle > Opções de Energia > Coloque ALTO DESEMPENHO
+http://imgur.com/a/d1AqV
+3. O AVAST parece causar perda de FPS e performance do computador.
+4. Área de Trabalho > Clique com o botão direito em cima do Meu Computador > Propriedades > Configurações Avançadas do Sistema > Clique na aba Avançado > Na parte de Desempenho clique em configurações > Ajustar para obter um melhor desempenho http://imgur.com/a/KqV2s
+5. Limpe e organize os ícones da sua área de trabalho, não use wallpapers de 1080p, o melhor wallpaper que você pode usar é apenas um sólido de cor preta. http://imgur.com/PPRi4Xs
+____________________________________________________
+• REALTEK
+É isso mesmo, você leu Realtek, teve um post no reddit onde um usuário disse que atualizou seus drivers de áudio da Realtek e conseguiu pegar 50-100+ FPS, não entendo como, porém fiz o update do driver e deu uma diferença.
+1. Clique com o botão direito no ícone de som no canto inferior direito da sua tela (Deve estar perto do horário e alguns outros ícones)
+2. Clique em Dispositivos de Reprodução
+3. Procure o Alto-Falante que você está usando naquela lista e clique duas vezes em cima dele
+4. Veja se você usa o driver Realtek, na tela que abrir provavelmente vai aparecer algo como Realtek High Definition Audio
+5. Clique nas propriedades e veja se seu driver é de uma data mais antiga do que 2015/2014
+Caso seja de uma data mais antiga faça os seguintes passos:
+1. Vá para http://www.realtek.com.tw/downloads/
+2. Clique em " High Definition Audio Codecs (Software) "
+3. Procure o driver correspondente ao seu sistema e veja se seu sistema usa 64-bit ou 32-bit. Depois de fazer o download, ele irá reiniciar seu computador, depois de iniciar instale o driver e reinicie novamente o seu computador pela última vez
+4. Depois de instalar e reiniciar o computador clique com o botão direito no ícone de som no canto inferior direito da sua tela novamente e dê um clique duplo no seu alto-falante
+5. Vá na aba Aperfeiçoamentos
+6. Desative todos os efeitos sonoros, você não vai perder nenhuma qualidade áudio com isso, se você acha que vai, desative apenas quando iniciar o CS:GO
+7. Por último clique na aba Avançado e mude o formato para 16 bit 48000Hz (Qualidade de DVD), novamente, se você acha que realmente vai perder alguma qualidade de áudio com qualquer uma dessas mudanças, só ative elas quando iniciar o CS:GO.
+____________________________________________________
+• OPÇÕES DE INICIALIZAÇÃO
+Logo aviso, essa pode ou não pode funcionar para todos, apenas tente e depois diga se mudou algo, existe muita controversas à respeito dessas opções
+Principais (Sempre use essas, são importantes)
+1. -novid
+2. -nojoy
+3. -nod3d9ex
+4. -noaafonts
+5. +mat_queue_mode 2
+6. -cl_forcepreload 1
+Outras opções (essas são as tão controversas)
+1. -high
+2. -threads X (no lugar do X coloque quantas threads o seu processador tem, por exemplo eu tenho um I5-4570 e ele tem 4 threads, vou colocar "-threads 4")
+3. -freq X (no lugar do X coloque quantos HZ seu monitor está usando, por exemplo o meu tem 144hz, vou colocar "-freq 144", provavelmente seu monitor vai ser de 60HZ ou de 75HZ, procure quantos HZ você está usando no momento.
+____________________________________________________
+• AUTOEXEC
+Bom, essa AUTOEXEC eu fiz usando vários comandos que ajudam muito no FPS, sempre que estou no game sempre digito "exec autoexec" para executar essa CFG, ela sempre dá +20-30 FPS quando você da exec nela. Recomendo você dar exec nela quando iniciar o CS:GO ou quando dar Alt-Tab no jogo.
+http://www17.zippyshare.com/v/zTChDhuF/file.html
+____________________________________________________
+Alguns tweaks e desvendando alguns mitos:
+1. Cravar o CS:GO a 60FPS porque seu monitor é 60HZ não é coisa de pessoa esperta, o CS:GO não é um jogo otimizado para rodar a 60 fps liso sem nenhum stuttering, tearing, latências e delays, então, quanto + FPS melhor.
+2. Se você estiver querendo muito aquele BenQ ou qualquer outro monitor de 144hz porém não pode comprar porque não tem dinheiro, use um CRT! Sim, o monitor de tubão não tem quase nada de delay e provavelmente vai rodar a 120-100hz na resolução 800x600 ou até 85hz em 1024x768
+3. Formatar o computador é importante, faça uma formatação caso perceba que ele está lento ou com vírus.
