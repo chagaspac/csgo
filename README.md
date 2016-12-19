@@ -16,6 +16,8 @@ VibranceGUI by juvlarN - Ingame Vibrance Level: 100% (Automated digital vibrance
 
 # Other links
 
+Dicas para ganhar mais FPS: <a href="https://raw.githubusercontent.com/pedrohiraoka/csgo/master/dicaspraganharmaisfpscsgo.txt">https://raw.githubusercontent.com/pedrohiraoka/csgo/master/dicaspraganharmaisfpscsgo.txt</a>
+
 Counter-Strike: Global Offensive - HIGHLIGHT - #TLK ZeroNinja (Dust2) https://www.youtube.com/watch?v=M1yKA_BEq8c
 
 The Ultimate FPS Boost Guide [HD/Voice]: https://www.youtube.com/watch?v=jEY1D0LfL78
